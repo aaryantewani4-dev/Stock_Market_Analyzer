@@ -76,12 +76,6 @@ stock_market_analyzer/
 │   ├── 5_feature_importance.py            # Analyze feature importance
 │   ├── 6_visualizations.py                # Generate charts
 │   └── 7_diagnostics.py                   # Model validation
-│
-├── old_versions/                          # Archive of learning journey
-├── outputs/                               # Generated plots & results
-│   ├── plots/
-│   └── results/
-│
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
