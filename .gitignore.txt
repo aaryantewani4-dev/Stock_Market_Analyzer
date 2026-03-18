@@ -1,0 +1,57 @@
+# ================================================================================
+# .gitignore for Stock Market Analyzer
+# ================================================================================
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.spyderproject.cfg
+.spyproject/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Model files (large files)
+*.pkl
+*.h5
+*.joblib
+*.model
+
+# Output files (generated - don't need to track)
+outputs/plots/*.png
+outputs/plots/*.jpg
+outputs/results/*.csv
+
+# Data files (large files - optional)
+# Uncomment these if your CSV files are too large for GitHub (>100MB)
+# data/*.csv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
