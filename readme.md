@@ -218,8 +218,8 @@ Day 2 price = actual_day1 × (1 + predicted_return)
 ---
 
 ## 👤 Author
-- GitHub: [@yourusername](https://github.com/aaryantewani4-dev)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aaryan-tewani-9200702b5/)
+- GitHub: [@Github](https://github.com/aaryantewani4-dev)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/aaryan-tewani-9200702b5/)
 
 ---
 
